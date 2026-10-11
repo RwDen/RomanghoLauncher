@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "publishedDate": "2026-10-11",
+  "status": "preview",
+  "launcherVersion": "0.9.24",
+  "modpackVersion": "0.1.0-preview.20",
+  "minecraftVersion": "26.2",
+  "loader": {
+    "name": "Fabric",
+    "version": "0.19.5"
+  },
+  "platform": "Windows x64",
+  "download": {
+    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v0.9.24/Romangho-Launcher-0.9.24-win-x64.zip",
+    "fileName": "Romangho-Launcher-0.9.24-win-x64.zip",
+    "bytes": 69917230,
+    "sha256": "876e04377bf3cc4cc42fe766c62e5c5393add62b8cc71f5749027bfade911138"
+  },
+  "releaseUrl": "https://github.com/RwDen/RomanghoLauncher/releases/tag/v0.9.24",
+  "folderName": "RomanghoLauncher",
+  "entryPoint": "RomanghoValley.Launcher.exe",
+  "screenshots": [
+    {
+      "fileName": "launcher-main.png",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v0.9.24/launcher-main.png",
+      "width": 1440,
+      "height": 900,
+      "altKo": "로망호 런처 메인 화면: 서버 접속 버튼과 공지사항",
+      "altEn": "Romangho Launcher home screen with server connection and announcements"
+    },
+    {
+      "fileName": "launcher-shader-selection.png",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v0.9.24/launcher-shader-selection.png",
+      "width": 960,
+      "height": 600,
+      "altKo": "셰이더 선택 화면: 이름, 특징, 권장 등급 비교",
+      "altEn": "Shader selection comparing names, features and hardware guidance"
+    },
+    {
+      "fileName": "launcher-notice-detail.png",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v0.9.24/launcher-notice-detail.png",
+      "width": 960,
+      "height": 600,
+      "altKo": "런처 안에서 열리는 공지 상세 화면",
+      "altEn": "Announcement details displayed inside the launcher"
+    },
+    {
+      "fileName": "launcher-memory-settings.png",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v0.9.24/launcher-memory-settings.png",
+      "width": 960,
+      "height": 600,
+      "altKo": "게임 메모리 설정 화면",
+      "altEn": "Game memory settings"
+    }
+  ],
+  "screenshotDisclosureKo": "최신 배포본의 실제 UI를 렌더링한 화면 예시입니다. 사용자명, 서버 상태와 공지 내용은 설명을 위한 예시이며 실시간 운영 상태가 아닙니다.",
+  "shaderDefault": "Complementary Reimagined",
+  "shaderOptions": [
+    "Complementary Reimagined",
+    "None",
+    "Bliss",
+    "Solas"
+  ]
+}
