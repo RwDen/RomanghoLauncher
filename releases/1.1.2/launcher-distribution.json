@@ -1,0 +1,45 @@
+{
+  "launcherVersion": "1.1.2",
+  "modpackVersion": "1.1.0",
+  "revision": 55,
+  "assets": [
+    {
+      "name": "RomanghoSetup-1.1.2.exe",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.2/RomanghoSetup-1.1.2.exe",
+      "bytes": 2838447,
+      "sha256": "60efc562e9034b721e879b08246ecb4cfd1305dbf18e2f9ba8d07371040edbb0",
+      "publicVerified": true
+    },
+    {
+      "name": "Romangho-Launcher-1.1.2-win-x64.zip",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.2/Romangho-Launcher-1.1.2-win-x64.zip",
+      "bytes": 122122948,
+      "sha256": "77aba1b846823661d5b576fbac7a3368e041d3b59e24d893af6052348be0bb94",
+      "publicVerified": true
+    },
+    {
+      "name": "SHA256SUMS-1.1.2.txt",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.2/SHA256SUMS-1.1.2.txt",
+      "bytes": 192,
+      "sha256": "69649cc3af769c1f6950b31e8845fe93758b2a8a751fde2d7850f47d673a3aff",
+      "publicVerified": true
+    }
+  ],
+  "audioDefaults": {
+    "newInstallOnly": true,
+    "preserveExistingUserSettings": true,
+    "values": {
+      "soundCategory_master": "0.5",
+      "soundCategory_music": "0.0",
+      "soundCategory_record": "0.8",
+      "soundCategory_weather": "0.2",
+      "soundCategory_block": "0.5",
+      "soundCategory_hostile": "0.5",
+      "soundCategory_neutral": "0.35",
+      "soundCategory_player": "0.5",
+      "soundCategory_ambient": "0.3",
+      "soundCategory_voice": "0.0",
+      "soundCategory_ui": "0.5"
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "publishedDate": "2026-11-15",
   "status": "released",
-  "launcherVersion": "1.1.1",
+  "launcherVersion": "1.1.2",
   "modpackVersion": "1.1.0",
   "minecraftVersion": "26.2",
   "loader": {
@@ -12,11 +12,11 @@
   "javaVersion": 25,
   "platform": "Windows x64",
   "download": {
-    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.1/RomanghoSetup-1.1.1.exe",
-    "bytes": 2838510,
-    "sha256": "32d5ec822de01d783744933ddfd5ceaffa29ad8e4f69c03ea69f7624b33c532b"
+    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.2/RomanghoSetup-1.1.2.exe",
+    "bytes": 2838447,
+    "sha256": "60efc562e9034b721e879b08246ecb4cfd1305dbf18e2f9ba8d07371040edbb0"
   },
-  "releaseUrl": "https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.1.1",
+  "releaseUrl": "https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.1.2",
   "entryPoint": "RomanghoValley.Launcher.exe",
   "shaderDefault": "Complementary Reimagined",
   "serverRollout": "applied",
@@ -24,9 +24,9 @@
   "signedManifest": "https://raw.githubusercontent.com/RwDen/RomanghoLauncher/main/client-packs/stable.json",
   "revision": 55,
   "portableDownload": {
-    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.1/Romangho-Launcher-1.1.1-win-x64.zip",
-    "bytes": 122123044,
-    "sha256": "363d0706de496bc450939703e169bd3b330f2c9cdcc1c31c95f399e8938df766"
+    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.2/Romangho-Launcher-1.1.2-win-x64.zip",
+    "bytes": 122122948,
+    "sha256": "77aba1b846823661d5b576fbac7a3368e041d3b59e24d893af6052348be0bb94"
   },
   "distribution": "per-user-web-installer",
   "runtime": "self-contained .NET 10 Windows Desktop x64 10.0.15",
@@ -37,17 +37,17 @@
     "newInstallOnly": true,
     "preserveExistingUserSettings": true,
     "values": {
-      "soundCategory_master": "0.5099415355960266",
+      "soundCategory_master": "0.5",
       "soundCategory_music": "0.0",
-      "soundCategory_record": "1.0",
-      "soundCategory_weather": "0.15656910211267622",
-      "soundCategory_block": "0.4064700704225352",
-      "soundCategory_hostile": "0.5089568661971833",
-      "soundCategory_neutral": "0.2514194542253523",
-      "soundCategory_player": "0.5066076144366196",
-      "soundCategory_ambient": "0.30310299295774634",
-      "soundCategory_voice": "0.5089568661971833",
-      "soundCategory_ui": "0.3007537411971831"
+      "soundCategory_record": "0.8",
+      "soundCategory_weather": "0.2",
+      "soundCategory_block": "0.5",
+      "soundCategory_hostile": "0.5",
+      "soundCategory_neutral": "0.35",
+      "soundCategory_player": "0.5",
+      "soundCategory_ambient": "0.3",
+      "soundCategory_voice": "0.0",
+      "soundCategory_ui": "0.5"
     }
   }
 }
