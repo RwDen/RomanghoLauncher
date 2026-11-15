@@ -3,7 +3,7 @@
   "publishedDate": "2026-11-15",
   "status": "released",
   "launcherVersion": "1.1.1",
-  "modpackVersion": "1.0.0",
+  "modpackVersion": "1.1.0",
   "minecraftVersion": "26.2",
   "loader": {
     "name": "Fabric",
@@ -19,10 +19,10 @@
   "releaseUrl": "https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.1.1",
   "entryPoint": "RomanghoValley.Launcher.exe",
   "shaderDefault": "Complementary Reimagined",
-  "serverRollout": "not-performed-by-this-release",
-  "serverOpening": "separate-operator-step",
+  "serverRollout": "applied",
+  "serverOpening": "online",
   "signedManifest": "https://raw.githubusercontent.com/RwDen/RomanghoLauncher/main/client-packs/stable.json",
-  "revision": 54,
+  "revision": 55,
   "portableDownload": {
     "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.1/Romangho-Launcher-1.1.1-win-x64.zip",
     "bytes": 122123044,

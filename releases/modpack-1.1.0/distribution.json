@@ -1,0 +1,40 @@
+{
+  "version": "1.1.0",
+  "revision": 55,
+  "minimumLauncherVersion": "1.1.1",
+  "changes": [
+    "버그 픽스"
+  ],
+  "assets": [
+    {
+      "name": "RELEASE-NOTES.md",
+      "bytes": 15,
+      "sha256": "8e111159b2ab4a76e318bf62cb5f63dc242cced5ce99d6418e4f54df9432333c",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.1.0/RELEASE-NOTES.md"
+    },
+    {
+      "name": "romangho-chaos-roulette-0.15.0-minor110.qa3.jar",
+      "bytes": 73095725,
+      "sha256": "a644f1a42fb773a047f8e13b5c648dc4021429356817c23547ebe6baadc3a154",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.1.0/romangho-chaos-roulette-0.15.0-minor110.qa3.jar"
+    },
+    {
+      "name": "Romangho-client-1.1.0.mrpack",
+      "bytes": 44899887,
+      "sha256": "b5e3b137e1e768a3525bf496685828ccf74b8f5d3ca7bdd9d803072e1bb79b28",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.1.0/Romangho-client-1.1.0.mrpack"
+    },
+    {
+      "name": "Romangho-QoL-26.2-server-1.1.0.zip",
+      "bytes": 230056472,
+      "sha256": "dab9a0e9ead85dadc0ff8b173760cdd3efc82f97e79007c2846c14c5638417e8",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.1.0/Romangho-QoL-26.2-server-1.1.0.zip"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 397,
+      "sha256": "dd161616f065a49a651357cd5f52e758458293555f74338a8879784dd5f794dc",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.1.0/SHA256SUMS.txt"
+    }
+  ]
+}
