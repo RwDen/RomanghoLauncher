@@ -292,27 +292,6 @@
       "sha256": "4ad14579eacd83813683faac1882f50acd142249fc537ed9bda4df02bad067ca",
       "name": "SHA256SUMS.txt",
       "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.0.0/SHA256SUMS.txt"
-    },
-    {
-      "tag": "toolbox-v1.0.0",
-      "bytes": 168199466,
-      "sha256": "8cbb6b5490b578bacebced095841c6d1820ff6da6fe10d984ea6555643667354",
-      "name": "Romangho-Toolbox-1.0.0-win-x64.zip",
-      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/toolbox-v1.0.0/Romangho-Toolbox-1.0.0-win-x64.zip"
-    },
-    {
-      "tag": "toolbox-v1.0.0",
-      "bytes": 1372,
-      "sha256": "7229aa2bd042184c5aafb49d95a2b2f4e7abcc812bb21c5e09f814ed17187f72",
-      "name": "RELEASE-NOTES.md",
-      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/toolbox-v1.0.0/RELEASE-NOTES.md"
-    },
-    {
-      "tag": "toolbox-v1.0.0",
-      "bytes": 102,
-      "sha256": "40d92b50af338400fb42a0ce080caf89ab0da4199a362e55c8ddf693ea3e7d29",
-      "name": "SHA256SUMS.txt",
-      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/toolbox-v1.0.0/SHA256SUMS.txt"
     }
   ]
 }
