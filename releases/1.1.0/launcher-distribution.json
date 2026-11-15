@@ -1,0 +1,40 @@
+{
+  "version": "1.1.0",
+  "assets": [
+    {
+      "id": 750123252,
+      "name": "RomanghoSetup-1.1.0.exe",
+      "bytes": 2838459,
+      "sha256": "0ffcd38fc90ff0c66b4e83e8c7092da68186da150696ccff35f7b5fe14b69a0c",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.0/RomanghoSetup-1.1.0.exe",
+      "publicVerified": true
+    },
+    {
+      "id": 750123308,
+      "name": "Romangho-Launcher-1.1.0-win-x64.zip",
+      "bytes": 122121784,
+      "sha256": "67cf279a86b0fa4a92b9ddb79e05eb0a00447aac7714479eb2a1b3edfcd930af",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.0/Romangho-Launcher-1.1.0-win-x64.zip",
+      "publicVerified": true
+    },
+    {
+      "id": 750123728,
+      "name": "RELEASE-NOTES-1.1.0.md",
+      "bytes": 2002,
+      "sha256": "6ad324da22fb6812955b48f3b3b62ccb31494bdd0ce464b6e1708daaab299579",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.0/RELEASE-NOTES-1.1.0.md",
+      "publicVerified": true
+    },
+    {
+      "id": 750123772,
+      "name": "SHA256SUMS-1.1.0.txt",
+      "bytes": 194,
+      "sha256": "a9e96bd514dc71c6c67a4ed8fe7ef3a67aa9a24cd6f1f2ca826590261bce086f",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.0/SHA256SUMS-1.1.0.txt",
+      "publicVerified": true
+    }
+  ],
+  "runtime": "self-contained .NET 10 Windows Desktop x64 10.0.15",
+  "modpackVersion": "1.0.0",
+  "revision": 54
+}
