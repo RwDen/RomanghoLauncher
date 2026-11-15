@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "7d63b1f367c2409e83722bcb93e8b901",
+  "revision": "0c11c57ee5f947fe9b68777eb70cd1cd",
   "items": [
     {
       "id": "n-20261010-3a3afbf9cc4e",
@@ -16,15 +16,15 @@
     },
     {
       "id": "n-20261011-353e0d4d9ec7",
-      "title": "\uC11C\uBC84 \uC7AC\uBD80\uD305 \uC2DC\uAC01 \uC548\uB0B4",
+      "title": "\uC11C\uBC84 \uC815\uAE30\uC810\uAC80 \uC548\uB0B4",
       "category": "\uC810\uAC80",
       "publishedAt": "2026-10-11T13:48:48.3575989+09:00",
-      "updatedAt": "2026-10-11T13:48:48.3576002+09:00",
+      "updatedAt": "2026-11-15T16:15:32.864506+09:00",
       "pinned": false,
       "visible": true,
-      "revision": 1,
-      "content": "n-20261011-353e0d4d9ec7-r1.md",
-      "sha256": "f5cf7ebe23ecc46e506c978cce5bc4fdb3c9b8a371ecf53da433f254c5dce32b"
+      "revision": 2,
+      "content": "n-20261011-353e0d4d9ec7-r2.md",
+      "sha256": "3780ab4ba029effb9a2a68ffa237fbf0cbb6eb8f96da8d948efba81bb6ab8556"
     }
   ]
 }
