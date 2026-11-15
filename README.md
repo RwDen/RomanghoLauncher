@@ -1,34 +1,26 @@
-# Romangho Launcher
+# Romangho 1.0.0
 
-로망호 서버 시즌 2를 위한 한국어 Windows 런처입니다. 농사와 건축, 탐험과 휴식을 편하게 즐길 수 있도록 모드팩 설치와 서버 접속을 준비합니다.
+로망호 런처·모드팩·관리자 툴박스의 정식 파일 배포입니다. 파일 공개와 Minecraft 운영 서버의 적용·개방은 별도 단계입니다. 이번 게시에서는 운영 서버를 변경하지 않았습니다.
 
-**[Windows용 런처 다운로드](https://github.com/RwDen/RomanghoLauncher/releases/download/v0.9.24/Romangho-Launcher-0.9.24-win-x64.zip)** · **[릴리스 노트](https://github.com/RwDen/RomanghoLauncher/releases/tag/v0.9.24)**
+- [Windows 런처 1.0.0](https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.0.0)
+- [클라이언트·서버 모드팩 1.0.0](https://github.com/RwDen/RomanghoLauncher/releases/tag/client-pack-v1.0.0)
+- [관리자 툴박스 1.0.0](https://github.com/RwDen/RomanghoLauncher/releases/tag/toolbox-v1.0.0)
+- [웹사이트](https://rw-den.vercel.app/romangho-launcher/)
+- [파일 SHA-256·버전 대응표](releases/1.0.0/release-index.json)
 
-현재 미리보기 버전: 런처 **0.9.24** / 모드팩 **0.1.0-preview.20**.
-Minecraft **26.2**, Fabric **0.19.5**, Java **25** 환경을 사용합니다.
+Minecraft 26.2 / Fabric Loader 0.19.5 / Java 25. 클라이언트 144개·서버 101개 모드. 내부 모드의 검증된 버전은 유지합니다.
 
-![로망호 런처 메인 화면](https://github.com/RwDen/RomanghoLauncher/releases/download/v0.9.24/launcher-main.png)
+## 설치와 업데이트
+런처 ZIP 전체를 풀고 최상위 RomanghoValley.Launcher.exe를 실행하세요. app 폴더를 함께 보관하고, 업데이트할 때 기존 data 폴더를 보존하세요. Microsoft 계정과 Minecraft Java 이용 권한이 필요합니다. 런처·툴박스의 자체 업데이트는 각각 ZIP 교체 방식입니다.
 
-## 기능
-- Microsoft 계정 로그인과 Minecraft: Java Edition 소유권 확인
-- 공식 배포처에서 직접 받는 모드팩 설치와 게임 실행 환경 준비
-- 서버 상태·접속 인원·공지사항 확인과 서버 접속
-- Complementary Reimagined 기본값, Bliss·Solas·None 선택
-- 게임 메모리 설정, 검사 및 복구, 게임 폴더 열기
-- 게임 실행 준비 안내와 게임 종료 후 런처 복귀
+모드팩은 기존 운영 공개키로 서명한 client-packs/stable.json을 검증합니다. 제품 버전 1.0.0과 배포 revision 54는 서로 다른 값입니다. 신규 설치 기본 셰이더는 Complementary Reimagined이고 기존 사용자 음량·셰이더·개인 설정은 보존합니다.
 
-## 실행
-ZIP 전체를 풀고 `RomanghoLauncher/RomanghoValley.Launcher.exe`를 실행하세요. `app`과 `data`를 실행파일과 함께 보관하세요. 업데이트할 때는 기존 `data` 폴더를 보존하세요. 자세한 내용은 배포본의 `readme.txt`, `patchnote.txt`를 참고하세요.
+관리자 툴박스 서버 기능은 별도 에이전트·root 소유 정책·SSH 키·호스트 지문 설정이 필요하며 기본값은 접근 거부입니다. 이번 배포에서 운영 서버에 설치하지 않았습니다. 공지 관리 기능은 기존 사용자별 GitHub 인증을 사용합니다.
 
-스크린샷은 실제 UI를 렌더링한 예시이며 사용자명·서버 상태·공지 내용은 실시간 운영 상태가 아닙니다.
+## 운영 안전
+서버 패치에는 정상 종료·동일 시점 전체 백업·복원 검증이 선행되어야 합니다. 저장이 불확실하면 emergency 상태를 유지하고 자동 재시작하지 않습니다. Linux 서비스·guard·관리 에이전트 실제 연동은 개방 전 확인 대상입니다.
 
-## English
-Romangho Launcher is a Korean-language Windows desktop launcher for the Romangho Season 2 Minecraft community. It prepares the modpack and runtime, supports Microsoft sign-in and game ownership verification, and provides server status, announcements and shader selection.
+## Website source
+website/site의 정적 파일을 기존 rw-den Vercel 프로젝트로 배포합니다. assets 목록은 website/site/assets-sources.json에 기존 공개 파일의 URL·해시로 고정했습니다. 기존 배포는 CLI 방식이며 Git 자동 배포 연결은 확인되지 않았습니다.
 
-Extract the entire ZIP and run `RomanghoValley.Launcher.exe` inside `RomanghoLauncher`. Keep `app` and `data` alongside the executable. Preserve your existing `data` folder when updating. A Microsoft account entitled to Minecraft: Java Edition is required.
-
-## Website
-[Romangho Launcher](https://rw-den.vercel.app/romangho-launcher/?lang=en)
-
-## Notice
-This is an independent, non-commercial community launcher and is not affiliated with Mojang Studios, Microsoft, Modrinth or CurseForge. Minecraft and third-party mods belong to their respective owners.
+Independent community software, not an official Minecraft or Microsoft product. Third-party mods and shaders retain their respective licenses.

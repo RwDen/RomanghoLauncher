@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Rw Den — Lock Indicator와 로망호 런처. Windows tools and community projects.">
+  <meta name="theme-color" content="#171916"><title>Rw Den</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23171916'/%3E%3Cpath d='M10 29V20a10 10 0 0120 0v9M16 29V21a4 4 0 018 0v8' fill='none' stroke='%23d5b37b' stroke-width='2'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css"><script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#project" data-ko="프로젝트로 이동" data-en="Skip to project">프로젝트로 이동</a>
+  <div class="grain" aria-hidden="true"></div>
+  <header>
+    <a class="brand" href="#" aria-label="Rw Den"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M7 32V21a13 13 0 0126 0v11M14 32V23a6 6 0 0112 0v9"/></svg><span>Rw <i>Den</i><small>EST. 2026</small></span></a>
+    <nav aria-label="Main navigation"><a href="#project" data-ko="작업물" data-en="Projects">작업물</a><label class="language-control"><span aria-hidden="true">🌐</span><select id="language" aria-label="언어 선택"><option value="ko">한국어</option><option value="en">English</option></select></label></nav>
+  </header>
+  <main>
+    <section class="workbench" aria-labelledby="projects-title">
+      <div class="ceiling" aria-hidden="true"><div class="cord"></div><div class="lamp"></div><div class="light"></div></div>
+      <div class="room-number" aria-hidden="true">RW / 001</div>
+      
+      <div class="bench-surface" aria-hidden="true"><span class="book book-one"></span><span class="book book-two"></span><span class="small-box"></span><span class="cup"></span><span class="pencil"></span></div>
+      
+    <div id="project" class="project-section"><div class="section-heading"><h2 id="projects-title" data-ko="작업물" data-en="Projects">작업물</h2><div class="project-controls"><button id="previous-project" type="button" aria-label="이전 작업물">←</button><span id="project-count">01 / 01</span><button id="next-project" type="button" aria-label="다음 작업물">→</button></div></div>
+      <article class="project-card" data-project="lock-indicator" aria-label="Lock Indicator">
+        <div class="project-visual"><img src="assets/lock-indicator.png" width="630" height="300" alt="Lock Indicator 실제 Cloud Mint 알림 화면" data-alt-ko="Lock Indicator 실제 Cloud Mint 알림 화면" data-alt-en="Actual Lock Indicator Cloud Mint notification"><span class="capture-label" data-ko="실제 앱 화면 · Cloud Mint" data-en="Actual app capture · Cloud Mint">실제 앱 화면 · Cloud Mint</span></div><div class="project-copy">
+          <div class="project-meta"><span>WINDOWS UTILITY</span><span>v1.2.2</span></div>
+          <h3>Lock Indicator</h3>
+          <p class="description" data-ko="Caps Lock, Num Lock, Scroll Lock. 잠금 상태가 바뀌는 순간, 화면 위에 가볍게 알려줍니다." data-en="Caps Lock, Num Lock, Scroll Lock. A quiet on-screen notification, right when a lock state changes.">Caps Lock, Num Lock, Scroll Lock. 잠금 상태가 바뀌는 순간, 화면 위에 가볍게 알려줍니다.</p>
+          <ul class="features"><li data-ko="네 가지 스킨과 선택 가능한 알림음" data-en="Four themes and optional soft chimes">네 가지 스킨과 선택 가능한 알림음</li><li data-ko="작업을 방해하지 않는 알림 · 클릭 통과" data-en="Notifications without stealing focus · click-through">작업을 방해하지 않는 알림 · 클릭 통과</li><li data-ko="설치 없이 실행 · .NET 별도 설치 불필요" data-en="Portable · no separate .NET installation">설치 없이 실행 · .NET 별도 설치 불필요</li></ul>
+          <div class="actions"><a class="download" href="https://github.com/RwDen/LockIndicator/releases/download/v1.2.2/LockIndicator-v1.2.2-win-x64.zip"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/></svg><span data-ko="Windows 다운로드" data-en="Download for Windows">Windows 다운로드</span></a><a class="source" href="https://github.com/RwDen/LockIndicator" target="_blank" rel="noopener noreferrer" data-ko="소스 코드 ↗" data-en="Source code ↗">소스 코드 ↗</a></div>
+          <p class="requirements">Windows 10 / 11 · x64 · MIT</p>
+          <details><summary data-ko="실행 방법" data-en="How to run">실행 방법</summary><p data-ko="ZIP 파일을 내려받아 압축을 풀고 LockIndicator.exe를 실행하세요. 설정과 종료는 작업 표시줄 트레이 메뉴에서 할 수 있습니다." data-en="Download and extract the ZIP, then run LockIndicator.exe. Use the system tray menu to change settings or exit.">ZIP 파일을 내려받아 압축을 풀고 LockIndicator.exe를 실행하세요. 설정과 종료는 작업 표시줄 트레이 메뉴에서 할 수 있습니다.</p><a href="https://github.com/RwDen/LockIndicator/releases/tag/v1.2.2" target="_blank" rel="noopener noreferrer" data-ko="릴리스 노트 ↗" data-en="Release notes ↗">릴리스 노트 ↗</a></details>
+        </div>
+      </article>
+<article class="project-card launcher-card" data-project="romangho-launcher" aria-label="Romangho Launcher" hidden>
+<div class="project-visual launcher-visual"><img src="/assets/launcher-home.png" width="960" height="600" alt="로망호 런처 메인 화면: 서버 접속 버튼과 공지사항" data-alt-ko="로망호 런처 메인 화면: 서버 접속 버튼과 공지사항" data-alt-en="Romangho Launcher home screen with server connection and announcements"><span class="capture-label" data-ko="런처 화면 · 서버 상태는 실시간 정보가 아닙니다" data-en="Launcher screen · Server status is not live">런처 화면 · 서버 상태는 실시간 정보가 아닙니다</span></div>
+<div class="project-copy"><div class="project-meta"><span>WINDOWS LAUNCHER</span><span>v1.0.0</span></div>
+<h3 data-ko="로망호 런처" data-en="Romangho Launcher">로망호 런처</h3>
+<p class="description" data-ko="로망호 서버 전용 Windows 런처입니다. Microsoft 로그인, 모드팩 설치와 게임 실행을 한곳에서 진행합니다." data-en="A Windows launcher for the Romangho server, with Microsoft sign-in, modpack installation, and game launch in one place.">로망호 서버 전용 Windows 런처입니다. Microsoft 로그인, 모드팩 설치와 게임 실행을 한곳에서 진행합니다.</p>
+<ul class="features"><li data-ko="계정 로그인 · 모드팩 설치와 실행" data-en="Account sign-in · Modpack installation and launch">계정 로그인 · 모드팩 설치와 실행</li><li data-ko="셰이더 선택 · 메모리 설정" data-en="Shader selection · Memory settings">셰이더 선택 · 메모리 설정</li><li data-ko="서버 상태·공지 확인 · 파일 검사·복구" data-en="Server status and notices · File verification and repair">서버 상태·공지 확인 · 파일 검사·복구</li></ul>
+<div class="actions"><a class="download" href="https://github.com/RwDen/RomanghoLauncher/releases/download/v1.0.0/Romangho-Launcher-1.0.0-win-x64.zip"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m-5-5 5 5 5-5M4 16v5h16v-5"/></svg><span data-ko="Windows 다운로드" data-en="Download for Windows">Windows 다운로드</span></a><a class="source" data-language-link href="/romangho-launcher/" data-ko="자세히 보기 ↗" data-en="View project ↗">자세히 보기 ↗</a></div>
+<p class="requirements">Windows x64 · 208.9 MiB ZIP<br>Minecraft: Java Edition</p>
+<details><summary data-ko="실행 방법" data-en="How to run">실행 방법</summary><p data-ko="ZIP 전체를 풀고 RomanghoLauncher 폴더의 RomanghoValley.Launcher.exe를 실행하세요. app과 data 폴더를 함께 보관하세요. Minecraft: Java Edition 이용 권한이 있는 Microsoft 계정이 필요합니다." data-en="Extract the entire ZIP and run RomanghoValley.Launcher.exe inside the extracted release folder. Keep app and data with the executable. A Microsoft account entitled to Minecraft: Java Edition is required.">ZIP 전체를 풀고 RomanghoLauncher 폴더의 RomanghoValley.Launcher.exe를 실행하세요. app과 data 폴더를 함께 보관하세요. Minecraft: Java Edition 이용 권한이 있는 Microsoft 계정이 필요합니다.</p><a href="https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer" data-ko="릴리스 노트 ↗" data-en="Release notes ↗">릴리스 노트 ↗</a></details>
+</div></article>
+      </div>
+    </section>
+  </main>
+  <footer><span class="footer-brand">Rw Den</span><span>© 2026 Rw</span></footer>
+</body>
+</html>
+
+

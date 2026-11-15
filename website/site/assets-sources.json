@@ -1,0 +1,26 @@
+[
+  {
+    "path": "assets/launcher-home.png",
+    "url": "https://rw-den.vercel.app/assets/launcher-home.png",
+    "bytes": 1050052,
+    "sha256": "391d53e45cc1cebbdd0d0605b60dd4eab8265fdc2885cb2ed667d3c557459204"
+  },
+  {
+    "path": "assets/launcher-memory-settings.png",
+    "url": "https://rw-den.vercel.app/assets/launcher-memory-settings.png",
+    "bytes": 714996,
+    "sha256": "79b0a8fd7fbdff392f3f3af1d47a31c1996a9115a75d3e70f18d9687a9be65a7"
+  },
+  {
+    "path": "assets/launcher-shader-selection.png",
+    "url": "https://rw-den.vercel.app/assets/launcher-shader-selection.png",
+    "bytes": 414862,
+    "sha256": "2bfc830c84656682f1d2c2d5c7bfb2c13a14c951238028987f96f35fd5599414"
+  },
+  {
+    "path": "assets/lock-indicator.png",
+    "url": "https://rw-den.vercel.app/assets/lock-indicator.png",
+    "bytes": 27437,
+    "sha256": "2475ae8c52f59bea144c4b516dd25635175dc638e2b69971ebe14d9603fb4ef9"
+  }
+]
