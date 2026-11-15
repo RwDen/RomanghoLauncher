@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "publishedDate": "2026-11-15",
   "status": "released",
-  "launcherVersion": "1.1.0",
+  "launcherVersion": "1.1.1",
   "modpackVersion": "1.0.0",
   "minecraftVersion": "26.2",
   "loader": {
@@ -12,11 +12,11 @@
   "javaVersion": 25,
   "platform": "Windows x64",
   "download": {
-    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.0/RomanghoSetup-1.1.0.exe",
-    "bytes": 2838459,
-    "sha256": "0ffcd38fc90ff0c66b4e83e8c7092da68186da150696ccff35f7b5fe14b69a0c"
+    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.1/RomanghoSetup-1.1.1.exe",
+    "bytes": 2838510,
+    "sha256": "32d5ec822de01d783744933ddfd5ceaffa29ad8e4f69c03ea69f7624b33c532b"
   },
-  "releaseUrl": "https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.1.0",
+  "releaseUrl": "https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.1.1",
   "entryPoint": "RomanghoValley.Launcher.exe",
   "shaderDefault": "Complementary Reimagined",
   "serverRollout": "not-performed-by-this-release",
@@ -24,13 +24,30 @@
   "signedManifest": "https://raw.githubusercontent.com/RwDen/RomanghoLauncher/main/client-packs/stable.json",
   "revision": 54,
   "portableDownload": {
-    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.0/Romangho-Launcher-1.1.0-win-x64.zip",
-    "bytes": 122121784,
-    "sha256": "67cf279a86b0fa4a92b9ddb79e05eb0a00447aac7714479eb2a1b3edfcd930af"
+    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.1/Romangho-Launcher-1.1.1-win-x64.zip",
+    "bytes": 122123044,
+    "sha256": "363d0706de496bc450939703e169bd3b330f2c9cdcc1c31c95f399e8938df766"
   },
   "distribution": "per-user-web-installer",
   "runtime": "self-contained .NET 10 Windows Desktop x64 10.0.15",
   "programDirectory": "%LOCALAPPDATA%\\Programs\\Romangho",
   "dataDirectory": "%LOCALAPPDATA%\\Romangho\\data",
-  "preserveDataOnUninstall": true
+  "preserveDataOnUninstall": true,
+  "audioDefaults": {
+    "newInstallOnly": true,
+    "preserveExistingUserSettings": true,
+    "values": {
+      "soundCategory_master": "0.5099415355960266",
+      "soundCategory_music": "0.0",
+      "soundCategory_record": "1.0",
+      "soundCategory_weather": "0.15656910211267622",
+      "soundCategory_block": "0.4064700704225352",
+      "soundCategory_hostile": "0.5089568661971833",
+      "soundCategory_neutral": "0.2514194542253523",
+      "soundCategory_player": "0.5066076144366196",
+      "soundCategory_ambient": "0.30310299295774634",
+      "soundCategory_voice": "0.5089568661971833",
+      "soundCategory_ui": "0.3007537411971831"
+    }
+  }
 }
