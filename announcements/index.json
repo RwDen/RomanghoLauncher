@@ -1,19 +1,7 @@
 {
   "schemaVersion": 1,
-  "revision": "25215eb60dd5441886edb189f2119d03",
+  "revision": "7cf3cc805e7c49e7a389e7835e78474f",
   "items": [
-    {
-      "id": "n-20261011-353e0d4d9ec7",
-      "title": "\uC11C\uBC84 \uC815\uAE30\uC810\uAC80 \uC548\uB0B4",
-      "category": "\uC810\uAC80",
-      "publishedAt": "2026-10-11T13:48:48.3575989+09:00",
-      "updatedAt": "2026-11-15T16:15:32.864506+09:00",
-      "pinned": false,
-      "visible": true,
-      "revision": 2,
-      "content": "n-20261011-353e0d4d9ec7-r2.md",
-      "sha256": "3780ab4ba029effb9a2a68ffa237fbf0cbb6eb8f96da8d948efba81bb6ab8556"
-    },
     {
       "id": "n-20261115-309d705782bd",
       "title": "\uD654\uC774\uD2B8\uB9AC\uC2A4\uD2B8 \uC6B4\uC601 \uC548\uB0B4",
@@ -25,6 +13,18 @@
       "revision": 1,
       "content": "n-20261115-309d705782bd-r1.md",
       "sha256": "585e6d96d9cc95f9f1f54c2d9c6046d07397877a47d1c8224b94ca6ef254ae3f"
+    },
+    {
+      "id": "n-20261011-353e0d4d9ec7",
+      "title": "\uC11C\uBC84 \uC815\uAE30\uC810\uAC80 \uC548\uB0B4",
+      "category": "\uC810\uAC80",
+      "publishedAt": "2026-10-11T13:48:48.3575989+09:00",
+      "updatedAt": "2026-11-23T00:54:27.5656354+09:00",
+      "pinned": false,
+      "visible": true,
+      "revision": 3,
+      "content": "n-20261011-353e0d4d9ec7-r3.md",
+      "sha256": "9502c605f2c199d67ec553b8cc0a63628fbee8ef17daa7b94a755a673271b12d"
     }
   ]
 }
