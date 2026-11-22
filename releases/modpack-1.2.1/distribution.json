@@ -1,0 +1,19 @@
+{
+  "version": "1.2.1",
+  "revision": 58,
+  "assets": [
+    {
+      "name": "Romangho-QoL-26.2-server-1.2.1.zip",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.1/Romangho-QoL-26.2-server-1.2.1.zip",
+      "bytes": 219686256,
+      "sha256": "af43a76c331ae6c999e6048267538796fc89dbaaa2d993d68336533205f9e58b"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.1/SHA256SUMS.txt",
+      "bytes": 102,
+      "sha256": "6c4ecf7784bcdbb774df74d937ef7b8e1a2a0cbac4f7a46851d33ac8c254fc93"
+    }
+  ],
+  "changes": "칭호 판정용 발전과제가 일반 발전과제 화면에 표시되는 문제와 배경 표시 오류를 수정했습니다."
+}
