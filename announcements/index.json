@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": "30298d13820e4cc2ba8c630f7f566f44",
+  "revision": "3bfb9548635948cea5f3c4188a972dd3",
   "items": [
     {
       "id": "n-20261115-309d705782bd",
@@ -15,18 +15,6 @@
       "sha256": "585e6d96d9cc95f9f1f54c2d9c6046d07397877a47d1c8224b94ca6ef254ae3f"
     },
     {
-      "id": "n-20261011-353e0d4d9ec7",
-      "title": "\uC11C\uBC84 \uC815\uAE30\uC810\uAC80 \uC548\uB0B4",
-      "category": "\uC810\uAC80",
-      "publishedAt": "2026-10-11T13:48:48.3575989+09:00",
-      "updatedAt": "2026-11-23T00:54:27.5656354+09:00",
-      "pinned": false,
-      "visible": true,
-      "revision": 3,
-      "content": "n-20261011-353e0d4d9ec7-r3.md",
-      "sha256": "9502c605f2c199d67ec553b8cc0a63628fbee8ef17daa7b94a755a673271b12d"
-    },
-    {
       "id": "n-20261122-db7280f04622",
       "title": "\uB85C\uB9DD\uD638 \uC2DC\uC98C2 \uC11C\uBC84 \uC624\uD508",
       "category": "\uACF5\uC9C0",
@@ -37,6 +25,18 @@
       "revision": 1,
       "content": "n-20261122-db7280f04622-r1.md",
       "sha256": "3b5e78eb66e73f31468dfe5091fd42d542ba65df83e91af46543141a5c9641e0"
+    },
+    {
+      "id": "n-20261011-353e0d4d9ec7",
+      "title": "\uC11C\uBC84 \uC815\uAE30\uC810\uAC80 \uC548\uB0B4",
+      "category": "\uC810\uAC80",
+      "publishedAt": "2026-10-11T13:48:48.3575989+09:00",
+      "updatedAt": "2026-11-23T00:56:00.1439846+09:00",
+      "pinned": false,
+      "visible": true,
+      "revision": 4,
+      "content": "n-20261011-353e0d4d9ec7-r4.md",
+      "sha256": "11773d9bbc7f1ad8b2b4eaa817de1e5d81dc544c57072b4a12868e2de6aad577"
     }
   ]
 }
