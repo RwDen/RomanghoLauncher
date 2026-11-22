@@ -1,0 +1,55 @@
+{
+  "version": "1.2.0",
+  "revision": 56,
+  "assets": [
+    {
+      "name": "RELEASE-NOTES.md",
+      "bytes": 495,
+      "sha256": "6e4e873c2b358c6c9340acdf7fe4dc782b221e8c1b02c7ac08f20c904c8dc054",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.0/RELEASE-NOTES.md"
+    },
+    {
+      "name": "romangho-chaos-0.16.0-followup.qa13.badges.2.jar",
+      "bytes": 73149528,
+      "sha256": "d981342f4e8a21040ec82cdc65c084894fbb1d2121fa9cbb7f247295a147251a",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.0/romangho-chaos-0.16.0-followup.qa13.badges.2.jar"
+    },
+    {
+      "name": "Romangho-client-1.2.0.mrpack",
+      "bytes": 44900031,
+      "sha256": "53aea64c9feead594ba16b451639a18f8af59611188069c0e6a8f4fbcaf8d646",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.0/Romangho-client-1.2.0.mrpack"
+    },
+    {
+      "name": "romangho-cloud-ui-0.7.14-followup.qa11.reifocus.jar",
+      "bytes": 9105404,
+      "sha256": "e084b8f4a1d8c96ec340e475e23d83d6cac88864816eeddb5ead16f60990aceb",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.0/romangho-cloud-ui-0.7.14-followup.qa11.reifocus.jar"
+    },
+    {
+      "name": "romangho-frontier-hud-1.1.3-polish.qa1.jar",
+      "bytes": 43632,
+      "sha256": "e3c9c2e68b51c24fbf1b601cffd49fac957ec6cdba3e76ee4ae3574726ab280f",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.0/romangho-frontier-hud-1.1.3-polish.qa1.jar"
+    },
+    {
+      "name": "Romangho-QoL-26.2-server-1.2.0.zip",
+      "bytes": 230101887,
+      "sha256": "fb88edfb0bab803f5b7efcd05711d996de8a6312c62b09f2fc1dec2546763504",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.0/Romangho-QoL-26.2-server-1.2.0.zip"
+    },
+    {
+      "name": "romangho-typography-1.3.0-qa14.1.jar",
+      "bytes": 32922,
+      "sha256": "0fb09cc155415e3d8dbd2d4f328ba222ae784a404de6e584980da737666cd7a9",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.0/romangho-typography-1.3.0-qa14.1.jar"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 724,
+      "sha256": "4190b9be86cfd8d64f33031ee0cde8cd2b40e03f7c89a55e65fd21278cd68e8a",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.2.0/SHA256SUMS.txt"
+    }
+  ],
+  "changes": "칭호 32종에 배지를 적용하고 한글 글꼴과 이름표의 가독성을 개선했습니다. 브람 수리·비비안 정화 화면을 정리하고, 라즐로가 기초 자재 12종을 64개 단위로 매입합니다. 밀라 재훈련과 여명의 종을 추가하고, 귀환서·검색창·대시 표시를 개선했습니다.\n우왁굳 파워도적 스태츄는 신규 가챠에서 제외되며, 기존 0.5% 추첨과 천장에서는 네더라이트 파편 1개를 지급합니다."
+}
