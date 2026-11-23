@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "publishedDate": "2026-11-23",
   "status": "released",
-  "launcherVersion": "1.1.2",
+  "launcherVersion": "1.2.0",
   "modpackVersion": "1.3.0",
   "minecraftVersion": "26.2",
   "loader": {
@@ -12,21 +12,21 @@
   "javaVersion": 25,
   "platform": "Windows x64",
   "download": {
-    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.2/RomanghoSetup-1.1.2.exe",
-    "bytes": 2838447,
-    "sha256": "60efc562e9034b721e879b08246ecb4cfd1305dbf18e2f9ba8d07371040edbb0"
+    "bytes": 2838485,
+    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.2.0/RomanghoSetup-1.2.0.exe",
+    "sha256": "9e90171a4bb6b32ca0b02ba9e3140d3e0bccde6de039fed7afca734ddad3f19c"
   },
-  "releaseUrl": "https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.1.2",
+  "releaseUrl": "https://github.com/RwDen/RomanghoLauncher/releases/tag/v1.2.0",
   "entryPoint": "RomanghoValley.Launcher.exe",
-  "shaderDefault": "Complementary Reimagined",
+  "shaderDefault": null,
   "serverRollout": "applied",
   "serverOpening": "online",
   "signedManifest": "https://raw.githubusercontent.com/RwDen/RomanghoLauncher/main/client-packs/stable.json",
   "revision": 62,
   "portableDownload": {
-    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.2/Romangho-Launcher-1.1.2-win-x64.zip",
-    "bytes": 122122948,
-    "sha256": "77aba1b846823661d5b576fbac7a3368e041d3b59e24d893af6052348be0bb94"
+    "bytes": 122700861,
+    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.2.0/Romangho-Launcher-1.2.0-win-x64.zip",
+    "sha256": "3790d11eadaf1ee65742a9af26d1d60e01f16b123ac44feccf4fb4008b1b92a8"
   },
   "distribution": "per-user-web-installer",
   "runtime": "self-contained .NET 10 Windows Desktop x64 10.0.15",
@@ -49,5 +49,18 @@
       "soundCategory_voice": "0.0",
       "soundCategory_ui": "0.5"
     }
+  },
+  "shaderSelection": "first-launch",
+  "shaderChoices": [
+    "None",
+    "Mellow",
+    "Complementary Reimagined",
+    "Photon"
+  ],
+  "recommendedShader": "Photon",
+  "manualModpackDownload": {
+    "bytes": 44548471,
+    "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.0/Romangho-client-1.3.0-r2.mrpack",
+    "sha256": "9eff30fe7c516b11cd1a7aecdc74f6c6abd7409e308b57bf6fbea3f541361d2c"
   }
 }
