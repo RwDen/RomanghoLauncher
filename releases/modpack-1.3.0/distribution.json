@@ -1,0 +1,49 @@
+{
+  "version": "1.3.0",
+  "revision": 62,
+  "assets": [
+    {
+      "name": "romangho-chaos-0.16.0-release.1.3.0.jar",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.0/romangho-chaos-0.16.0-release.1.3.0.jar",
+      "bytes": 73150593,
+      "sha256": "d71142cf39cb25fe48655ea8c583f20212e947df07f98ff41362176f349b0359"
+    },
+    {
+      "name": "Romangho-client-1.3.0.mrpack",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.0/Romangho-client-1.3.0.mrpack",
+      "bytes": 44548657,
+      "sha256": "4f737fb1c5618d5db879de3161a7df82f08d11348016cfb8ad52894b873dfc6a"
+    },
+    {
+      "name": "romangho-frontier-hud-1.1.4.jar",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.0/romangho-frontier-hud-1.1.4.jar",
+      "bytes": 45391,
+      "sha256": "8c124f8cc5a0eba043564187e3cce2f363df5cb06e3a959c8dd3dcd384119ac9"
+    },
+    {
+      "name": "Romangho-QoL-26.2-server-1.3.0.zip",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.0/Romangho-QoL-26.2-server-1.3.0.zip",
+      "bytes": 220725495,
+      "sha256": "295cfc41419d0929593f55d04de1761c5fb587258999f2d27c78f975870eab9e"
+    },
+    {
+      "name": "romangho-temple-camp-1.0.0.jar",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.0/romangho-temple-camp-1.0.0.jar",
+      "bytes": 2073847,
+      "sha256": "bd2e5a55807896868764504f33e5c0451d79f9ba93469183a10e2138c7554876"
+    },
+    {
+      "name": "romangho-typography-1.3.1.jar",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.0/romangho-typography-1.3.1.jar",
+      "bytes": 33003,
+      "sha256": "b489a6a2d3e74584873934bcac77c5e4a1a4779e0c8cde52ebf27f4ea6b0f638"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.0/SHA256SUMS.txt",
+      "bytes": 599,
+      "sha256": "3b3e0034b9ee5677367da9b072800de42aeaaacc65defb9646576ed198da0538"
+    }
+  ],
+  "changes": "신전 야영지 설치 앵커를 추가하고 하단 안내문 위치와 게임 성능을 개선했습니다."
+}

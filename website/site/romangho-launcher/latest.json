@@ -3,7 +3,7 @@
   "publishedDate": "2026-11-23",
   "status": "released",
   "launcherVersion": "1.1.2",
-  "modpackVersion": "1.2.2",
+  "modpackVersion": "1.3.0",
   "minecraftVersion": "26.2",
   "loader": {
     "name": "Fabric",
@@ -22,7 +22,7 @@
   "serverRollout": "applied",
   "serverOpening": "online",
   "signedManifest": "https://raw.githubusercontent.com/RwDen/RomanghoLauncher/main/client-packs/stable.json",
-  "revision": 60,
+  "revision": 62,
   "portableDownload": {
     "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/v1.1.2/Romangho-Launcher-1.1.2-win-x64.zip",
     "bytes": 122122948,
