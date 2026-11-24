@@ -1,0 +1,37 @@
+{
+  "version": "1.3.2",
+  "revision": 69,
+  "assets": [
+    {
+      "name": "romangho-chaos-0.17.0-release.1.3.2.jar",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.2/romangho-chaos-0.17.0-release.1.3.2.jar",
+      "bytes": 73158846,
+      "sha256": "f5fe49fe777dbd0d58786fc0a203b8193208418e4d217d3439cc0cab5bd4c1ab"
+    },
+    {
+      "name": "Romangho-client-1.3.2.mrpack",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.2/Romangho-client-1.3.2.mrpack",
+      "bytes": 44548469,
+      "sha256": "016a36fce89967c05dc80209bbe7ea30ea7183a00aa7f5f2bba457fdce75acd9"
+    },
+    {
+      "name": "Romangho-QoL-26.2-server-1.3.2.zip",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.2/Romangho-QoL-26.2-server-1.3.2.zip",
+      "bytes": 221104050,
+      "sha256": "a0c93db37e8268a55f25f64781516dac9f1385445b1a2026d0ead9073283f006"
+    },
+    {
+      "name": "romangho-temple-camp-1.0.2.jar",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.2/romangho-temple-camp-1.0.2.jar",
+      "bytes": 2561254,
+      "sha256": "ba073b76dff71e4fbebbbbdc5b0f25fe0912b90ab0ed490541ddcd736fc21eb8"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "url": "https://github.com/RwDen/RomanghoLauncher/releases/download/client-pack-v1.3.2/SHA256SUMS.txt",
+      "bytes": 403,
+      "sha256": "900c3289bae768b5512f32d98e48449abae3acfa4e1fc064cef535c975b74bad"
+    }
+  ],
+  "changes": "버그 픽스"
+}
